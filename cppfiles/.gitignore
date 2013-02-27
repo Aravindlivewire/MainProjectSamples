@@ -1,0 +1,6 @@
+*.app
+*.beam
+*.so
+*.o
+*.a
+*.log
